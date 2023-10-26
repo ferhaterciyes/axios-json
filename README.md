@@ -1,5 +1,7 @@
 # Axios
 
+![Önizleme](ekranGifi.gif)
+
 Axios ve Fetch en popüler iki veri çekme kütüphanesi.
 
 Faydaları:
