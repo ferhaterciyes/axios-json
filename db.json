@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": 1698277872873,
+      "title": "editlendi",
+      "date": "26.10.2023 02:52:38",
+      "isDone": false
+    },
+    {
+      "id": 1698277951752,
+      "title": "json-axios project",
+      "date": "26.10.2023 02:52:31",
+      "isDone": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Bilal"
+    },
+    {
+      "id": 2,
+      "name": "Ahmet"
+    },
+    {
+      "id": 3,
+      "name": "İlknur"
+    }
+  ]
+}
